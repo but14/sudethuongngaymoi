@@ -20,7 +20,7 @@ const bgMusic = document.getElementById('bgMusic');
     gif: "https://i.pinimg.com/originals/3a/fc/12/3afc12d6744a68594d29eb565c62244c.gif"
   },
   {
-    text: "Em làm cuộc sống anh trở nên rực rỡ hơn! 🌟",
+    text: "Em khiến cuộc sống của anh trở nên rực rỡ và tươi sáng hơn 🌟",
     gif: "https://i.pinimg.com/originals/6a/ec/ee/6aecee875e4844f34a1539054bf8aa8a.gif"
   },
   {
