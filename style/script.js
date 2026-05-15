@@ -16,7 +16,7 @@ const bgMusic = document.getElementById('bgMusic');
     gif: "https://i.pinimg.com/originals/33/76/db/3376dbdfc1b6e8b71a2ea7353e4fc0f2.gif"
   },
   {
-    text: "Mỗi ngày bên em đều là ngày hạnh phúc! 🥰",
+    text: "Mỗi ngày bên em đều là ngày hạnh phúc với anh 🥰",
     gif: "https://i.pinimg.com/originals/3a/fc/12/3afc12d6744a68594d29eb565c62244c.gif"
   },
   {
@@ -24,7 +24,7 @@ const bgMusic = document.getElementById('bgMusic');
     gif: "https://i.pinimg.com/originals/6a/ec/ee/6aecee875e4844f34a1539054bf8aa8a.gif"
   },
   {
-    text: " 💕",
+    text: "Anh yêu em. Bechus của anh 💕",
     gif: "https://i.pinimg.com/originals/be/39/be/be39be7b9b6a02e06f892798063406c8.gif"
   }
 ];
