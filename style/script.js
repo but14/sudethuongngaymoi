@@ -11,8 +11,8 @@ const bgMusic = document.getElementById('bgMusic');
     text: "Chào ngày mới tình yêu của anh 💖",
     gif: "https://i.pinimg.com/originals/d9/4e/ef/d94eef3fc4f4af08ac6ed201017cd4c6.gif"
   },
-  {
-    text: "Anh chúc em một buổi sáng thật dịu dàng giống như cách em xuất hiện trong suy nghĩ của anh từ lúc anh thức dậy 🎀",
+  {<
+    text: "Anh chúc em một buổi sáng thật dịu dàng giống như cách <br>em xuất hiện trong suy nghĩ của anh từ lúc anh thức dậy 🎀",
     gif: "https://i.pinimg.com/originals/33/76/db/3376dbdfc1b6e8b71a2ea7353e4fc0f2.gif"
   },
   {
