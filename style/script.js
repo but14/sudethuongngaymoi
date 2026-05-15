@@ -16,7 +16,7 @@ const bgMusic = document.getElementById('bgMusic');
     gif: "https://i.pinimg.com/originals/33/76/db/3376dbdfc1b6e8b71a2ea7353e4fc0f2.gif"
   },
   {
-    text: "Mỗi ngày bên em đều là ngày hạnh phúc với anh 🥰",
+    text: "Hôm nay là 7 ngày Em và Anh quen nhau rùi á. \nVới anh mỗi ngày vừa qua bên em đều là ngày hạnh phúc với anh 🥰",
     gif: "https://i.pinimg.com/originals/3a/fc/12/3afc12d6744a68594d29eb565c62244c.gif"
   },
   {
